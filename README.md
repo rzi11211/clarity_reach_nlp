@@ -61,6 +61,7 @@ In conclusion, my analyses determined that neither jargon proportion, nor jargon
 **Inspiration**
 
 [Distill Research Journal](https://distill.pub/journal/)
+
 [Up Goer Five](https://xkcd.com/1133/) and associated [challenge](https://splasho.com/upgoer5/). 
 
 
