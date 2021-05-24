@@ -1,6 +1,7 @@
-# General Assembly Data Science Immersive Capstone Project
 ## Know Your Audience: Clarity & Reach in Scientific Communication
-#### Rachel Z. Insler
+### Rachel Z. Insler
+#### General Assembly Data Science Immersive Capstone Project
+
 #### Presentation available [*here.*](http://bit.ly/dsi_capstone) 
 ---
 
